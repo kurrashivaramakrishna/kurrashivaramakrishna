@@ -105,12 +105,7 @@ Dissertation: [add your topic]
 
 -----
 
-## GitHub Activity
 
-![Shivakrish’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurrashivaramakrishna&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurrashivaramakrishna&theme=dark&hide_border=true&layout=compact)
-
------
 
 ## Contact
 
