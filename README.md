@@ -1,17 +1,120 @@
-# 💫 About Me:
-I’m a passionate Full Stack Developer with a strong foundation in building scalable, user-friendly, and performance-driven web applications. I enjoy working across the full software development lifecycle — from designing responsive frontends to architecting robust backends and managing databases.<br><br>🔹 Frontend Expertise: React.js, Vite, JavaScript (ES6+), HTML5, CSS3, Tailwind<br>🔹 Backend Proficiency: Node.js, Express.js, REST APIs, JWT Authentication<br>🔹 Databases: MySQL, Supabase, MongoDB (familiar)<br>🔹 Tools & Deployment: Git/GitHub, Netlify, Vercel, Docker (learning), AWS (basic)<br><br>💡 I thrive on problem-solving, writing clean and maintainable code, and continuously learning modern technologies. My projects range from portfolio platforms with authentication and file uploads to AI-powered applications and real-time object detection systems.<br><br>🎯 Career Goal: To contribute as a Full Stack Developer in a dynamic team, building impactful digital products that combine great user experience with scalable, secure backends.
+# Kurra Shiva Rama Krishna
 
+**Full-Stack Developer — Java · Spring Boot · React.js**
+MSc Advanced Computer Science, Teesside University (July 2025) · Sheffield, UK · Right to Work in the UK
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shiva-rama-krishna-861a3916b) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@shiva rama krishna kurra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivakrish2724262@gmail.com) 
+-----
 
-# 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kurrashivaramakrishna&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kurrashivaramakrishna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## What I Build
 
----
-[![](https://visitcount.itsvg.in/api?id=kurrashivaramakrishna&icon=0&color=0)](https://visitcount.itsvg.in)
+I design and ship full-stack web applications end to end — RESTful APIs in Java/Spring Boot on the backend, React.js on the frontend, containerised with Docker, and deployed on AWS. I have 3 years of commercial software development experience from a product company in Chennai, India, and I am currently completing my MSc in the UK with a dissertation on [your dissertation topic — fill this in].
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+My projects cover microservices architecture, JWT-secured REST APIs, cloud file storage (AWS S3), real-time object detection, and mobile application development in Kotlin. Every repository here has a working deployment link or a demo.
+
+-----
+
+## Core Stack
+
+**Languages**
+Java · JavaScript (ES6+) · TypeScript · Kotlin · SQL
+
+**Frameworks & Libraries**
+Spring Boot · React.js · Node.js · Express.js · React Router · React Hook Form
+
+**Databases**
+PostgreSQL · MySQL · Supabase
+
+**Cloud & DevOps**
+AWS (S3, EC2 basics) · Docker · Docker Compose · GitHub Actions · Jenkins · Maven
+
+**Tools**
+Git · Postman · JWT Authentication · REST APIs · Agile / Scrum
+
+-----
+
+## Projects
+
+### Full-Stack Developer Portfolio
+
+**Stack:** Node.js · Express.js · MySQL · Supabase · AWS S3 · JWT · Docker · Netlify · Render
+
+A production-deployed portfolio platform with a full authentication system (JWT login/signup), profile picture upload to AWS S3, dynamic content management, and a Dockerised backend. Frontend is responsive HTML/CSS/JS with Tailwind. Backend is Node.js/Express with MySQL for relational data and Supabase for real-time features.
+
+- JWT-secured authentication with protected routes
+- AWS S3 integration for file storage and profile image uploads
+- Dockerised with docker-compose for consistent local and production environments
+- Deployed: frontend on Netlify, backend on Render
+
+🔗 [Live Demo](https://shivakrish.onrender.com) · [Repository](https://github.com/kurrashivaramakrishna/portfolio)
+
+-----
+
+### PanelApp — Career Advisor Android Application
+
+**Stack:** Kotlin · Android SDK · Gradle · Material Design
+
+A native Android application built in Kotlin that maps user responses through a dynamic quiz engine to personalised career path recommendations. Uses Android lifecycle-aware components and follows clean architecture principles. UI built with Material Design components.
+
+- Dynamic branching quiz logic with multi-path decision trees
+- Career recommendation engine driven by weighted response scoring
+- Material Design UI with clean Activity/Fragment architecture
+- Built with Gradle KTS for reproducible builds
+
+🔗 [Live Demo](https://quickresumeaipowered.netlify.app) · [Repository](https://github.com/kurrashivaramakrishna/PanelApp)
+
+-----
+
+### AI Snake Game — Deep Q-Learning Agent
+
+**Stack:** Python · PyTorch · Pygame
+
+Implemented a Deep Q-Network (DQN) reinforcement learning agent that learns to play Snake autonomously. The agent uses a neural network to approximate Q-values, with an epsilon-greedy exploration strategy and experience replay buffer. Trained from zero to consistent long-game performance.
+
+- DQN agent with 3-layer fully connected neural network (PyTorch)
+- Experience replay buffer with configurable batch size
+- Epsilon-greedy exploration with decay schedule
+- Training visualised in real time with Matplotlib
+
+🔗 [Repository](https://github.com/kurrashivaramakrishna/AI-Snake-Game)
+
+-----
+
+### Object Detection System — Autonomous Driving (YOLO)
+
+**Stack:** Python · YOLOv5 · OpenCV · Jupyter Notebook
+
+Real-time object detection model trained to identify vehicles, pedestrians, and road signs for autonomous driving scenarios. Focused on detection accuracy under varied lighting and environmental conditions.
+
+- YOLOv5 model fine-tuned on custom annotated dataset
+- Real-time inference pipeline using OpenCV video stream
+- Benchmarked mAP@0.5 across vehicle, pedestrian, and sign classes
+- Documented in Jupyter Notebook with visualised bounding boxes
+
+🔗 [Repository](https://github.com/kurrashivaramakrishna/object-detection-using-YOLO)
+
+-----
+
+## Experience
+
+**Software Developer** · Tech Firm, Chennai, India · ~3 years
+Full-stack development across Java/Spring Boot backend services and JavaScript frontend. Worked in Agile/Scrum teams delivering REST APIs, relational database design (MySQL/PostgreSQL), and front-end features.
+
+**MSc Advanced Computer Science** · Teesside University, UK · 2024–2025 (graduating July 2025)
+Modules: [add 2–3 relevant modules e.g. Cloud Computing, Software Engineering, Machine Learning]
+Dissertation: [add your topic]
+
+-----
+
+## GitHub Activity
+
+![Shivakrish’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurrashivaramakrishna&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurrashivaramakrishna&theme=dark&hide_border=true&layout=compact)
+
+-----
+
+## Contact
+
+📧 [shivakrish2724262@gmail.com](mailto:shivakrish2724262@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/shiva-rama-krishna-861a3916b)
+🌐 [Portfolio](https://shivakrish.onrender.com)
+📍 Sheffield, UK — open to roles across the UK, hybrid or on-site
