@@ -96,12 +96,10 @@ Real-time object detection model trained to identify vehicles, pedestrians, and 
 
 ## Experience
 
-**Software Developer** · Tech Firm, Chennai, India · ~3 years
-Full-stack development across Java/Spring Boot backend services and JavaScript frontend. Worked in Agile/Scrum teams delivering REST APIs, relational database design (MySQL/PostgreSQL), and front-end features.
 
 **MSc Advanced Computer Science** · Teesside University, UK · 2024–2025 (graduating July 2025)
 Modules: Artificial Intelligence, Machine Learning,
-Advanced Java, APP Developemet, Power B. 
+Advanced Java, APP Developemet, Power BI.
 
 Dissertation: AUTONOMOUS VEHICLE OOBJECT DETECTION USING YOLO
 
